@@ -1,4 +1,4 @@
 # Laiza/Breda
-<>🌐 Front-end developer  
+<p>🌐 Front-end developer, 
 HTML, CSS, JavaScript & React
-Criando interfaces responsivas e acessíveis 🚀</>
+Criando interfaces responsivas e acessíveis 🚀</p>
