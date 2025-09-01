@@ -1,4 +1,4 @@
-# laiza01-projeto
-🌐 Front-end developer  
+# Laiza/Breda
+<>🌐 Front-end developer  
 HTML, CSS, JavaScript & React
-Criando interfaces responsivas e acessíveis 🚀
+Criando interfaces responsivas e acessíveis 🚀</>
